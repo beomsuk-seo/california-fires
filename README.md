@@ -2,6 +2,8 @@
 
 In light of the recent wildfire affecting southern California, I wanted to explore the historical and/or geographical trends of wildfires that have hit California in the past. 
 
+![Wildfire Dashboard](updated_dashboard.png)
+
 ## Dataset:
 This dataset was uploaded to Kaggle.com by user Aries, covering all the wildfires California has faced between 2013 and 2020.
 - 1600 fires covered (across 59 counties in California)
