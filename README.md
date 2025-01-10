@@ -12,7 +12,8 @@ This dataset was uploaded to Kaggle.com by user Aries, covering all the wildfire
 ## Tools Used: 
 - Python (Pandas, Kaggle API): downloading dataset, data cleaning
 - Tableau: dashboard, data visualization
-
+    - Total Acres Burned, Moving Average for acres burned, counties with the most wilfire outbreaks
+    
 ### Note: data has intentionally not been uploaded to github due to large file size. In order to generate the data for yourself:
 - clone this repository
 - run all the code within ```wildire.ipynb```
